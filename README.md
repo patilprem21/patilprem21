@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url-here.com/header-image.png" alt="Header Image" width="100%">
+<!--  <img src="https://your-image-url-here.com/header-image.png" alt="Header Image" width="100%"> -->
 </div>
 
 <h1 align="center">👋 Hi, I'm Premanand Patil</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://your-image-url-here.com/divider.png" alt="Divider" width="100%">
+ <!-- <img src="https://your-image-url-here.com/divider.png" alt="Divider" width="100%">-->
 </div>
 
 ## 🛠️ Technologies & Tools
@@ -95,7 +95,7 @@
 - 📞 Phone: +91 9146911267
 
 <div align="center">
-  <img src="https://your-image-url-here.com/footer-image.png" alt="Footer Image" width="100%">
+  <!--<img src="https://your-image-url-here.com/footer-image.png" alt="Footer Image" width="100%">-->
 </div>
 
 ---
