@@ -50,7 +50,7 @@
 - 💻 Developed responsive client websites and interactive web forms
 - 🖌️ Created engaging 3D web experiences using Spline
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patilprem21&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilprem21&theme=radical" alt="GitHub Streak" />
 </p>
-
+-->
 ## 💼 Professional Experience
 
 ### Suntex Axpress (Current)
