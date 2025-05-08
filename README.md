@@ -38,7 +38,7 @@
 
 ## 🚀 Current Focus
 
-- 💼 Developing web forms using ASP.NET at Suntex Axpress
+- 💼 Developing web apps using ASP.NET at Suntex Axpress
 - 🌱 Expanding my knowledge of ASP.NET, SQL Server, and interactive web design
 - 🎨 Creating engaging user experiences with Spline and Framer
 - 🔍 Exploring the intersection of web development and 3D design
